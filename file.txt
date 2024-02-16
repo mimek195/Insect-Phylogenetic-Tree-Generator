@@ -1,0 +1,16 @@
+Insect|Insecta|Body divided into a head, thorax, and abdomen|Arthropoda
+Winged Insects|Pterygota|Insects with wings|Insecta
+True Bugs|Hemiptera|Piercing-sucking mouthparts|Pterygota
+Typical Bugs|Heteroptera|Forewings with both membranous and hardened portions|Hemiptera
+Red Bugs|Pyrrhocoridae|Many are red coloured|Hemiptera
+Firebug|Pyrrhocoris apterus|Pyrrhocoridae|3-segmented tarsus|Can move their antenna in all directions|Second pair of wings heavily reduced|-|10-segmented|Piercing-sucking|Phytophage
+Louse|Phthiraptera|Prognathic head|Pterygota
+Net-winged Insects|Neuroptera|Wings with a generalised pattern of veins|Pterygota
+Beetles|Coleoptera|Their front pair of wings are hardened into wing-cases|Pterygota
+Hymenoptera|Hymenoptera|The hindwings are connected to the forewings by a series of hooks|Pterygota
+Apocrita|Apocrita|Narrow "waist" formed between the first two segments of the actual abdomen|Hymenoptera
+Aculeata|Aculeata|Stinger|Apocrita
+Wasps|Vespidae|The front wings fold longitudinally when at rest|Aculeata
+European wasp|Vespula germanica|Vespidae|Yellow legs|Wide scape|Two pairs of membranous wings|Strong pronotum|10-segmented, with a stinger|Biting-licking type|Carnivore
+Wingless Insects|Apterygota|Insects lacking wings|Insecta
+Silverfish|Zygentoma|Dorsiventrally flattened bodies, generally elongated or oval in outline|Apterygota
